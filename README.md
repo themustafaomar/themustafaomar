@@ -4,3 +4,5 @@ Full stack web developer enthusiastic, innovator, persistent and passionate abou
 
 # Personal website:
 https://themustafaomar.com
+
+I'm sorry for the delayed replies, I can only be reached on Fridays.
