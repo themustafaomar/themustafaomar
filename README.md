@@ -1,6 +1,6 @@
 ### Hi there, I'm Mustafa Omar 🎉
 
-Full stack web developer enthusiastic, innovator, persistent and passionate about software and technology.
+Full stack web developer specializing in Laravel and Vue.js with a flavor of TypeScript.
 
 # Personal website:
 https://mustafaomar.com
